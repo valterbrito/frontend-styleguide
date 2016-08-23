@@ -98,3 +98,7 @@ Aqui vão ficar os componentes que serão reutilizados no projeto.
 - Ao criar um componente, evite definir propriedades do tipo *position, top, left, float, margin*
 
 *Obs.: Alguns projetos podem não seguir por completo este guia. Porém, deve-se basear nele.
+
+### Comentários
+
+- Para facilitar a organização, todos os arquivos css/html devem ser comentados.  
